@@ -6,5 +6,5 @@ Available for Download.
 
 ### Sample: Jhol Momo and Coca Cola
 
-<img src="Jhol%20Momo%20and%20Coke%20-%20Phone%20Wallpaper.jpg" width="540" height="960">
+<img src="Jhol%20Momo%20and%20Coke%20-%20Phone%20Wallpaper.jpg" width="270" height="480">
 
