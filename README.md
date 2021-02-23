@@ -6,5 +6,5 @@ Available for Download.
 
 ### Sample: Umbrella Rain
 
-![Umbrella Rain](Umbrella%20Rain%20-%20Phone%20Wallpaper.png)
+<img src="Umbrella%20Rain%20-%20Phone%20Wallpaper.png" width="540" height="960">
 
