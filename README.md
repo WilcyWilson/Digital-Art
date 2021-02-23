@@ -4,7 +4,7 @@ Collection of Digital Arts made by using Photoshop and Adobe Illustrator.
 
 Available for Download.
 
-### Sample: Umbrella Rain
+### Sample: Jhol Momo and Coca Cola
 
-<img src="Umbrella%20Rain%20-%20Phone%20Wallpaper.png" width="540" height="960">
+<img src="Jhol%20Momo%20and%20Coke%20-%20PC%20Wallpaper.png" width="960" height="540">
 
