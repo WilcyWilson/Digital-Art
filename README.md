@@ -4,7 +4,7 @@ Collection of Digital Arts made by using Photoshop and Adobe Illustrator.
 
 Available for Download.
 
-### **Sample: Umbrella Rain**
+### Sample: Umbrella Rain
 
 ![Umbrella Rain](Umbrella%20Rain%20-%20Phone%20Wallpaper.png)
 
