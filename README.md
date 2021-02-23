@@ -6,5 +6,5 @@ Available for Download.
 
 # Umbrella Rain
 
-![Umbrella Rain](Umbrella%20Rain%20-%20Phone%20Wallpaper.png =250x250)
+![Umbrella Rain](Umbrella%20Rain%20-%20Phone%20Wallpaper.png)
 
