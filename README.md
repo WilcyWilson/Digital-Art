@@ -12,10 +12,6 @@ Available for Download.
 
 <pre><img src="Robot%20and%20Laser%20-%20Phone%20Wallpaper.png" width="270" height="480">    <img src="Target%20-%20Phone%20Wallpaper.jpg" width="270" height="480"></pre>
 
-<img src="Robot%20and%20Laser%20-%20Phone%20Wallpaper.png" width="270" height="480">
-
-<img src="Target%20-%20Phone%20Wallpaper.jpg" width="270" height="480">
-
 
 
 
